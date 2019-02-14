@@ -7,12 +7,6 @@ make re
 ```
 ### what's in it:
 
-```diff
-+ get_next_line
-+ ft_printf
-```
-
-
 useful func  | string func 1	|string func 2 | mem func| list func|
 ----------------|--------------|----------------|----------------|----------------|
 ft_isalpha| ft_strlen|ft_strsub| ft_memdel|ft_lstnew|
@@ -30,6 +24,6 @@ ft_atoi| ft_strncmp|ft_strdel | NULL|NULL|
 ft_itoa| ft_strnstr|ft_striter | NULL|NULL|
 NULL| ft_strncmp|ft_striteri| NULL|NULL|
 **get_next_line**| ft_strrchr|ft_strjoin| NULL|NULL|
-**ft_printf**|  ft_strnew|ft_strtrim| NULL|NULL|
+**ft_printf**|  ft_strnew|ft_strtrim| ||
 
 
