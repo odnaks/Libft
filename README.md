@@ -24,6 +24,6 @@ ft_atoi| ft_strncmp|ft_strdel | ||
 ft_itoa| ft_strnstr|ft_striter | ||
 | ft_strncmp|ft_striteri| ||
 | ft_strrchr|ft_strjoin| |**get_next_line**|
-|  ft_strnew|ft_strtrim| |**ft_printf**|
+| ft_strnew|ft_strtrim| |**ft_printf**|
 
 
