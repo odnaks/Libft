@@ -1,5 +1,5 @@
 # Libft
-my first own library functions on C
+my first own library of functions on C
 
 ### how to install:
 ```shell
