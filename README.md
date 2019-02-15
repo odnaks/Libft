@@ -3,7 +3,7 @@ my first own library functions on C
 
 ### how to install:
 ```shell
-make re
+make && make clean
 ```
 ### what's in it:
 
@@ -26,4 +26,6 @@ ft_itoa| ft_strnstr|ft_striter | ||
 | |ft_strjoin| ft_strnew||**+get_next_line**|
 | |ft_strtrim| ||**+ft_printf**|
 
+### my marks:
 
+![my marks](https://github.com/odnaks/trash/blob/master/Screen%20Shot%202019-02-15%20at%2011.02.25.png)
