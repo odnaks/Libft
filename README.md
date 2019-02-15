@@ -7,7 +7,7 @@ make re
 ```
 ### what's in it:
 
-useful func  | string func 1	|string func 2 | mem func| list func|
+c/d func  | string func 1	|string func 2 | mem func| list func|
 ----------------|--------------|----------------|----------------|----------------|
 ft_isalpha| ft_strlen|ft_strsub| ft_memdel|ft_lstnew|
 ft_isdigit| ft_strcpy		|ft_strmap| ft_memalloc|ft_lstdelone|
