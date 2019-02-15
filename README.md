@@ -1,6 +1,9 @@
 # Libft
 my first own library of functions on C
 
+### ruls for writting lib:
+![funcs](https://github.com/odnaks/trash/blob/master/Screen%20Shot%202019-02-15%20at%2011.08.27.png)
+
 ### how to install:
 ```shell
 make && make clean
