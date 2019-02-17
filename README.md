@@ -2,7 +2,7 @@
 my first own library of functions on C
 
 ### ruls for writting lib:
-![funcs](https://github.com/odnaks/trash/blob/master/Screen%20Shot%202019-02-15%20at%2011.08.27.png)
+![funcs](https://github.com/odnaks/settings/blob/master/screens/Screen%20Shot%202019-02-15%20at%2011.08.27.png)
 
 ### how to install:
 ```shell
@@ -31,4 +31,4 @@ ft_itoa| ft_strnstr|ft_striter | ||
 
 ### my marks:
 
-![my marks](https://github.com/odnaks/trash/blob/master/Screen%20Shot%202019-02-15%20at%2011.02.25.png)
+![my marks](https://github.com/odnaks/settings/blob/master/screens/Screen%20Shot%202019-02-15%20at%2011.02.25.png)
